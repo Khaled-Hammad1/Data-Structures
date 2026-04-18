@@ -1,0 +1,246 @@
+Beit Lahem District , Population = 182000
+Wadi Rahhal , 2000
+Khallet al Qoton , 2000
+Umm Salamuna , 2000
+Al-Minya , 2000
+Al Ubeidiya , 3000
+Wadi Fukin , 3000
+Al-Ma'sara , 3000
+Beit Ta'mir , 3000
+Al-Hader , 3000
+Jurat ash Sham'a , 3000
+Jannatah , 4000
+Janata , 4000
+Dar Salah , 4000
+Wadi al-Nis , 4000
+Al-Walaja , 4000
+Marah Rabah , 4000
+Artas , 5000
+Zaatara , 5000
+Battir , 5000
+Nahalin , 6000
+Husan , 6000
+Azza Refugee Camp , 6000
+Tuqu , 7000
+Aida Refugee Camp , 7000
+Deheishe Refugee Camp , 8000
+Al Khader , 12000
+Beit Sahour , 15000
+Beit Jala , 20000
+Beit Lahem , 30000
+Deir al Balah District , Population = 283000
+Juhor ad-Dik , 8000
+Wadi as-Salqa , 10000
+Al-Qarara , 15000
+Al-Maghazi , 30000
+Bureij Refugee Camp , 40000
+Deir al-Balah , 50000
+Maghazi Refugee Camp , 60000
+Nuseirat Refugee Camp , 70000
+Hebron District , Population = 862000
+Qalqas , 3000
+Al-Karmil , 4000
+Dura al-Qar' , 4000
+Beit Ula , 5000
+Tarama , 5000
+Al-Samu' , 5000
+Husan , 6000
+Al-Dhahiriya , 7000
+Taffuh , 8000
+Kharas , 9000
+Kharas , 9000
+Beit Awwa , 10000
+Idhna , 10000
+Surif , 10000
+Al-Arrub Refugee Camp , 10000
+Al-Fawwar Refugee Camp , 10000
+Idhna , 10000
+Al-Shuyukh , 12000
+Beit Ummar , 15000
+Tarqumiyah , 15000
+Sair , 15000
+Tarqumiyah , 15000
+Sair , 15000
+Beit Ummar , 15000
+As Samu , 20000
+Beit Kahil , 20000
+Beit Kahil , 20000
+Adh Dhahiriya , 25000
+Bani Naim , 30000
+Halhul , 40000
+Halhul , 40000
+Yatta , 70000
+Yatta , 70000
+Dura , 100000
+Hebron , 200000
+Jenin District , Population = 268000
+Al Mugheir , 3000
+Meithalun , 4000
+Al Jalama , 5000
+Al Araqa , 5000
+Zababdeh , 6000
+Kufeirit , 6000
+Zububa , 6000
+Jaba , 7000
+Faqqua , 7000
+Tura al Gharbiya , 8000
+Kafr Dan , 8000
+Silat al Harithiya , 10000
+Barta'a , 10000
+Arraba , 15000
+Qabatiya , 20000
+Al Yamun , 25000
+Yabad , 31000
+Jenin , 92000
+Jericho District , Population = 42000
+Fasayil , 2000
+Az Zubaidat , 3000
+Al Masyoon , 4000
+Al Auja , 5000
+Al Jiftlik , 8000
+Jericho , 20000
+Jerusalem District , Population = 1281000
+Al-Qubeiba , 2500
+Beit Ijza , 3000
+Kharayib Umm al-Lahim , 3000
+Bir Nibala , 3500
+Bir Nabala , 4000
+Beit Surik , 4000
+Hizma , 5000
+Beit Duqqu , 5000
+Beit Anan , 5000
+Qatanna , 6000
+Beit Hanina al-Balad , 6000
+Al-Walaja , 7000
+Al-Jib , 7000
+Beit Safafa , 10000
+Anata , 10000
+Qalandia , 15000
+Sur Baher , 20000
+Al-'Isawiya , 20000
+Shu'fat Refugee Camp , 25000
+Jabal Mukaber , 25000
+At-Tur , 30000
+Shu'fat , 35000
+Beit Hanina , 40000
+Al-Ram , 40000
+Silwan , 50000
+Jerusalem , 900000
+Khan Yunis District , Population = 230183
+Al Qusaymah , 5000
+Al Amal , 6000
+Al Qarara , 7000
+Abasan al Kabira , 8000
+Al Fukhari , 9000
+Bani Suheila , 10000
+Abasan al Jadida , 12000
+Khan Yunis , 173183
+Nablus District , Population = 391000
+Yasid , 1000
+Madama , 2000
+Yanun , 2000
+Tell , 2000
+Osarin , 2000
+Burqa , 3000
+Far'ata , 3000
+Zeita Jamma'in , 3000
+Salim , 3000
+Iraq Burin , 4000
+Al-Lubban ash Sharqiya , 4000
+Qusra , 4000
+Kafr Qallil , 4000
+Aqraba , 5000
+Azmut , 5000
+Jamma'in , 5000
+Deir al Hatab , 5000
+Beit Dajan , 5000
+Asira ash Shamaliya , 6000
+Zawata , 6000
+Asira al Qibliya , 6000
+Yatma , 7000
+Deir Sharaf , 7000
+Einabus , 7000
+Awarta , 8000
+Tel , 8000
+Beita , 9000
+Beit Furik , 10000
+Huwwara , 10000
+Askar al Jadid Refugee Camp , 15000
+Askar Refugee Camp , 20000
+Balata Refugee Camp , 30000
+Nablus , 180000
+Qalqilya District , Population = 122000
+Ma'ale Iron , 1500
+Kfar Saba , 2000
+Izbat Salman , 3000
+Nabi Elias , 3500
+Ras Atiya , 4000
+Kafr Thulth , 4000
+Ni'lin , 4000
+Zawiya , 4000
+Kafr Qaddum , 5000
+Jayyous , 6000
+Az Zawiya , 7000
+Habla , 8000
+Isla , 8000
+Azzun , 12000
+Qalqilya , 50000
+Rafah District , Population = 78000
+Al Musadar , 6000
+Salatin , 7000
+Kherbat al Adas , 8000
+Yibna , 9000
+Abasan al Kabira , 10000
+Shawkah , 11000
+Tel al Sultan , 12000
+Bani Suheila , 15000
+Ramallah District , Population = 286000
+Jifna , 3000
+Al-Janiya , 3000
+Kafr Malik , 3000
+Nabi Salih , 3000
+Umm Safa , 3000
+Beit Ur al-Fauqa , 4000
+Beitin , 4000
+Mazra'a ash Sharqiya , 4000
+Sinjil , 4000
+Deir Dibwan , 5000
+Beit Liqya , 5000
+Deir Jarir , 5000
+Saffa , 5000
+Rawabi , 5000
+Kharbatha al-Misbah , 6000
+Ein Yabrud , 6000
+Taybeh , 6000
+Kobar , 7000
+Bir Zeit , 10000
+Al-Jalazun Refugee Camp , 10000
+Beitunia , 20000
+Al Amari Refugee Camp , 25000
+Qalandia Refugee Camp , 30000
+al Bireh , 40000
+Ramallah , 70000
+Salfit District , Population = 43000
+Khirbet Qana , 2000
+Kafr ad Dik , 3000
+Mas'ha , 3000
+Bruqin , 5000
+Haris , 5000
+Deir Istiya , 7000
+Kifl Haris , 8000
+Salfit , 10000
+Tul Karm District , Population = 140000
+Attil , 2000
+Iktaba , 3000
+Bal'a , 4000
+Shufa , 4000
+Jalbun , 4000
+Kafr Jammal , 5000
+Nazlat 'Isa , 5000
+Kufr al Labad , 5000
+Kafr Zibad , 6000
+Deir al Ghusun , 7000
+Zeita , 7000
+Far'un , 8000
+Anabta , 10000
+Tul Karm , 70000
